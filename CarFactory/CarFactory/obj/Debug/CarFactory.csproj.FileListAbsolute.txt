@@ -1,0 +1,6 @@
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\obj\Debug\CarFactory.csproj.CoreCompileInputs.cache
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\bin\Debug\CarFactory.exe.config
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\bin\Debug\CarFactory.exe
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\bin\Debug\CarFactory.pdb
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\obj\Debug\CarFactory.exe
+c:\bin\source\repos\Telecare\CarFactory\CarFactory\obj\Debug\CarFactory.pdb
