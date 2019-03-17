@@ -7,18 +7,19 @@ using System.Threading.Tasks;
 
 namespace CarFactory.Cars
 {
-    class BluetoothCar : baseCar, IBluetoothCarFeature
+    public class BluetoothCar : Car, IBluetoothCarFeature
     {
         public BluetoothCar():base()
         {
-            this._type = Cartypes.bluetooth;
-            this._color = Colors.red;
-            this._safteyRating = SafetyRating.great;
+            this.CarType = Cartypes.bluetooth;
+            this.SafteyRating = SafetyRatings.great;
+            this._price = 5000.0m;
+            this._color = Colors.black;
         }
             
         public string GetBluetoothFeatures()
         {
-            return "BlueTooth";
+            return " BlueTooth";
         }
 
         public decimal GetBlueToothPrice()
@@ -26,15 +27,15 @@ namespace CarFactory.Cars
             return 1000.00m;
         }
 
-        public new string GetFeatures()
+        public override string GetFeatures()
         {
             string ret = base.GetFeatures() + GetBluetoothFeatures();
             return ret;
         }
 
-        public new decimal GetPrice()
+        public override decimal GetPrice()
         {
-            return _price + GetBlueToothPrice();
+            return base.GetPrice() + GetBlueToothPrice();
         }
     }
 }

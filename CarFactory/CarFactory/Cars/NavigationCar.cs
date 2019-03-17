@@ -7,20 +7,20 @@ using System.Threading.Tasks;
 
 namespace CarFactory.Cars
 {
-    class NavigationCar : baseCar, INavifationCarFeature
+    public class NavigationCar : Car, INavifationCarFeature
     {
 
         public NavigationCar() : base()
         {
-            this._type = Cartypes.navigation;
+            this.CarType = Cartypes.navigation;
+            this.SafteyRating = SafetyRatings.fantastic;
+            this._price = 5000.00m; 
             this._color = Colors.red;
-            this._safteyRating = SafetyRating.fantastic;
-            this._price = 5000.00m;
         }
 
-        public new string GetFeatures()
+        public override string GetFeatures()
         {
-            string ret = base.GetFeatures() + GetNavigationFeatures();
+            string ret =  base.GetFeatures() + GetNavigationFeatures();
             return ret;
         }
 
@@ -34,9 +34,10 @@ namespace CarFactory.Cars
             return 2000.00m;
         }
 
-        public decimal GetPrice()
+        public override decimal GetPrice()
         {
-            return _price + GetNavigationPrice();
+            return base.GetPrice() + GetNavigationPrice();
         }
+
     }
 }
