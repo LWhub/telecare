@@ -26,8 +26,8 @@ namespace CarFactory
             ICar bluetoothcar;
 
             basecar = factory.MakeCar(Interfaces.Cartypes.basecar);
-            navacar = factory.MakeCar(Interfaces.Cartypes.basecar);
-            bluetoothcar = factory.MakeCar(Interfaces.Cartypes.basecar);
+            navacar = factory.MakeCar(Interfaces.Cartypes.navigation);
+            bluetoothcar = factory.MakeCar(Interfaces.Cartypes.bluetooth);
 
             Console.WriteLine(basecar.GetFeatures());
             Console.WriteLine(navacar.GetFeatures());
