@@ -1,0 +1,17 @@
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\obj\Debug\CarFactoryTests.csprojAssemblyReference.cache
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\obj\Debug\CarFactoryTests.csproj.CoreCompileInputs.cache
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\CarFactoryTests.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\CarFactoryTests.pdb
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\CarFactory.exe
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\CarFactory.pdb
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\CarFactory.exe.config
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\obj\Debug\CarFactoryTests.csproj.CopyComplete
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\obj\Debug\CarFactoryTests.dll
+c:\bin\source\repos\Telecare\CarFactory\CarFactoryTests\obj\Debug\CarFactoryTests.pdb
